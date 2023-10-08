@@ -739,42 +739,6 @@ video {
   background-color: rgb(209 213 219 / var(--tw-bg-opacity));
 }
 
-.bg-\[\] {
-  background-color: ;
-}
-
-.bg-\[url\] {
-  background-color: url;
-}
-
-.bg-\[url\/imgs\/imgs\/traductor-codigo-binario-wp\.jpg\] {
-  background-color: url/imgs/imgs/traductor-codigo-binario-wp.jpg;
-}
-
-.bg-\[url\:\.\/\] {
-  background-image: ./;
-}
-
-.bg-\[url\:\.\/imgs\/\] {
-  background-image: ./imgs/;
-}
-
-.bg-\[url\:\.\/imgs\/imgs\/traductor-codigo-binario-wp\.jpg\] {
-  background-image: ./imgs/imgs/traductor-codigo-binario-wp.jpg;
-}
-
-.bg-\[url\(\/imgs\/imgs\/traductor-codigo-binario-wp\.jpg\)\] {
-  background-image: url(/imgs/imgs/traductor-codigo-binario-wp.jpg);
-}
-
-.bg-\[url\(\'\/imgs\/imgs\/traductor-codigo-binario-wp\.jpg\'\)\] {
-  background-image: url('/imgs/imgs/traductor-codigo-binario-wp.jpg');
-}
-
-.bg-\[url\(\'\.\/imgs\/imgs\/traductor-codigo-binario-wp\.jpg\'\)\] {
-  background-image: url('./imgs/imgs/traductor-codigo-binario-wp.jpg');
-}
-
 .bg-gradient-to-t {
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
 }
